@@ -1,4 +1,4 @@
-# Algoritmo e estruturas de dados
+# Algoritmos e estruturas de dados
 
 
 Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++.
