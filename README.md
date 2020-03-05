@@ -1,2 +1,1 @@
-# algoritmoseestruturasdedados
-Algoritmos e estruturas de dados
+# Algoritmo e estruturas de dados
