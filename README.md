@@ -17,7 +17,7 @@ Também poderá ser feita uma instalação local para execução mais rápida. A
 
 ## Instalação e execução local usando o conda
 
-Baixar o script de instalação do Miniconda https://docs.conda.io/en/latest/miniconda.html, adicionar permissão de execução 'chmod +x Miniconda3-latest-Linux-x86_64.sh' e executar o script 
+Baixar o script de instalação do Miniconda https://docs.conda.io/en/latest/miniconda.html, adicionar permissão de execução `chmod +x Miniconda3-latest-Linux-x86_64.sh` e executar o script 
 
 Criar ambiente 'cling'
 
@@ -42,4 +42,5 @@ Executar o `jupyter notebook` no diretório onde tiver baixado os arquivos.
 
 Copiar do console a URL com o token, para abrir o ambiente no navegador.
 
+O ambiente `cling` deverá ser ativado sempre que um novo terminal for aberto.
 
