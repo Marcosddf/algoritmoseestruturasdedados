@@ -1,7 +1,7 @@
 # Algoritmos e estruturas de dados
 
 
-Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++.
+Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++. Os algoritmos implementados baseiam-se em algoritmos existentes na literatura.
 
 O objetivo não é descrever todos os detalhes de implementação da linguagem. Para isto tutoriais específicos da linguagem são mais adequados.
 
