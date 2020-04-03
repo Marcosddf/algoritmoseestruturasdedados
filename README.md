@@ -11,7 +11,7 @@ Os notebooks contém extratos de códigos simples, com a descrição de suas car
 
 
 ## Disciplina de algoritmos e estruturas de dados III
-Este repositório está sendo usado como material de apoio para disciplina CI1057 - Algoritmos e estruturas de dados III, do Departamento de Informática de UFPR. Sugestões, ajustes, correções de bugs encontrados e contribuições são bem-vindos.
+Este repositório está sendo usado como material de apoio para disciplina CI1057 - _Algoritmos e estruturas de dados III_, do Departamento de Informática da UFPR. Sugestões, correções de bugs encontrados e contribuições são bem-vindos.
 
 ## Cópia do repositório
 
