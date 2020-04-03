@@ -3,8 +3,6 @@
 
 Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++. Os algoritmos implementados baseiam-se em algoritmos existentes na literatura.
 
-O objetivo não é descrever todos os detalhes de implementação da linguagem. Para isto tutoriais específicos da linguagem são mais adequados.
-
 # Notebooks em C++
 
 Os notebooks contém extratos de códigos simples, com a descrição de suas características prinicipais. São recomendados para introdução a algoritmos e estruturas de dados de forma iterativa e rápida.
@@ -12,6 +10,22 @@ Os notebooks contém extratos de códigos simples, com a descrição de suas car
 
 ## Disciplina de algoritmos e estruturas de dados III
 Este repositório está sendo usado como material de apoio para disciplina CI1057 - _Algoritmos e estruturas de dados III_, do Departamento de Informática da UFPR. Sugestões, correções de bugs encontrados e contribuições são bem-vindos.
+
+A lista abaixo contém uma ordem sugerida de aprendizado.
+
+- [Ponteiros.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/Ponteiros.ipynb)
+- [Percurso e operações em árvores binárias.ipááriaynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percuso_operacoes_arvores_binarias.ipynb)
+- [Árvore binária de busca.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_binaria_busca.ipynb)
+- [Rotações e inclusão na raiz de uma BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/inclusao_na_raiz_rotacoes.ipynb)
+- [Percursos iterativos em BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percurso_iterativo.ipynb)
+- [Árvore RedBlack - COM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
+- [Árvore RedBlack - SEM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
+- [Árvore B (e 2-3-4).ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_B.ipynb)
+- [Árvore TRIE.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_TRIE.ipynb)
+- [Heap e HeapSort.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/heap_heap_sort.ipynb)
+- [Código de Huffman.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/huffman.ipynb)
+- [MergeSort](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/merge_sort.ipynb)
+
 
 ## Cópia do repositório
 
