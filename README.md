@@ -14,7 +14,7 @@ Este repositório está sendo usado como material de apoio para disciplina CI105
 A lista abaixo contém uma ordem sugerida de aprendizado.
 
 - [Ponteiros.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/Ponteiros.ipynb)
-- [Percurso e operações em árvores binárias.ipááriaynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percuso_operacoes_arvores_binarias.ipynb)
+- [Percurso e operações em árvores binárias.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percuso_operacoes_arvores_binarias.ipynb)
 - [Árvore binária de busca.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_binaria_busca.ipynb)
 - [Rotações e inclusão na raiz de uma BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/inclusao_na_raiz_rotacoes.ipynb)
 - [Percursos iterativos em BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percurso_iterativo.ipynb)
