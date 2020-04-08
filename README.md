@@ -22,6 +22,7 @@ A lista abaixo contém uma ordem sugerida de aprendizado.
 - [Árvore RedBlack - SEM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
 - [Árvore B (e 2-3-4).ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_B.ipynb)
 - [Árvore TRIE.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_TRIE.ipynb)
+- [Árvore Radix](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/radix_tree.ipynb)
 - [Heap e HeapSort.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/heap_heap_sort.ipynb)
 - [Código de Huffman.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/huffman.ipynb)
 - [MergeSort](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/merge_sort.ipynb)
