@@ -1,11 +1,11 @@
 # Algoritmos e estruturas de dados
 
 
-Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++. Os algoritmos implementados baseiam-se em algoritmos existentes na literatura.
+Esta página tem como objetivo apresentar algoritmos e estruturas de dados simples, ilustrados na linguagem C++. Os algoritmos implementados baseiam-se em algoritmos existentes na [Literatura](#bibliografia) da área.
 
 # Notebooks em C++
 
-Os notebooks contém extratos de códigos simples, com a descrição de suas características prinicipais. São recomendados para introdução a algoritmos e estruturas de dados de forma iterativa e rápida.
+Os notebooks contém extratos de códigos simples, com a descrição de suas características principais. São recomendados para introdução a algoritmos e estruturas de dados de forma iterativa e rápida.
 
 
 ## Disciplina de algoritmos e estruturas de dados III
@@ -40,9 +40,6 @@ Para a execução dos Notebooks, estes deverão ser carregados e iniciados onlin
 
 Também poderá ser feita uma instalação local para execução mais rápida. As instruções detalhadas estão disponíveis no link https://github.com/jupyter-xeus/xeus-cling/. Um passo-a-passo está descrito abaixo.
 
-
-
-
 ## Instalação e execução local usando o conda
 
 Baixar o script de instalação do Miniconda https://docs.conda.io/en/latest/miniconda.html, adicionar permissão de execução `chmod +x Miniconda3-latest-Linux-x86_64.sh` e executar o script 
@@ -72,3 +69,10 @@ Copiar do console a URL com o token, para abrir o ambiente no navegador.
 
 O ambiente `cling` deverá ser ativado sempre que um novo terminal for aberto.
 
+# Bibliografia
+
+Alguns livros importantes sobre algoritmos e estruturas de dados.
+
+- Algoritmos – Teoria e prática, Cormen, Leiserson, Rivest, Stein, Rio de Janeiro, Campus, 2002
+- Projeto de algoritmos: com implementações em Pascal e C. Nívio Ziviani. São Paulo: Pioneira, 1999
+- Algorithms in C. R. Sedgewick. Addison-Wesley, Reading, Massachusetts, 1998.
