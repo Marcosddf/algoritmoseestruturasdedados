@@ -20,7 +20,7 @@ A lista abaixo contém uma ordem sugerida de aprendizado.
 - [Percursos iterativos em BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percurso_iterativo.ipynb)
 - [Árvore RedBlack - COM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
 - [Árvore RedBlack - SEM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
-- [Árvore B (e 2-3-4).ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_B.ipynb)
+- [Árvore B.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_B.ipynb)
 - [Árvore TRIE.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_TRIE.ipynb)
 - [Árvore Radix](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/radix_tree.ipynb)
 - [Heap e HeapSort.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/heap_heap_sort.ipynb)
