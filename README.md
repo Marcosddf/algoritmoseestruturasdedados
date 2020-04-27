@@ -26,6 +26,7 @@ A lista abaixo contém uma ordem sugerida de aprendizado.
 - [Heap e HeapSort.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/heap_heap_sort.ipynb)
 - [Código de Huffman.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/huffman.ipynb)
 - [MergeSort](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/merge_sort.ipynb)
+- [Tabela Hash](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/tabela_hash_simples.ipynb) : a tabela hash não depende dos demais elementos, poderia ser apresentada em outra ordem.
 
 
 ## Cópia do repositório
