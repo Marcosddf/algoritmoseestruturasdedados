@@ -28,6 +28,7 @@ A lista abaixo contém uma ordem sugerida de aprendizado.
 - [MergeSort](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/merge_sort.ipynb)
 - [Tabela Hash](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/tabela_hash_simples.ipynb) : a tabela hash não depende dos demais elementos, poderia ser apresentada em outra ordem.
 - [Tabela Hash - encadeamento](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/tabela_hash_encadeamento.ipynb)
+- [Tabela Hash - endereçamento aberto](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/tabela_hash_enderecamento_aberto.ipynb)
 
 
 ## Cópia do repositório
