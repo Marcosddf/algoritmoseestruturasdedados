@@ -18,6 +18,7 @@ A lista abaixo contém uma ordem sugerida de aprendizado.
 - [Árvore binária de busca.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_binaria_busca.ipynb)
 - [Rotações e inclusão na raiz de uma BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/inclusao_na_raiz_rotacoes.ipynb)
 - [Percursos iterativos em BST.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/percurso_iterativo.ipynb)
+- [Árvore AVL](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_AVL.ipynb)
 - [Árvore RedBlack - COM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
 - [Árvore RedBlack - SEM nós nulos.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_red_black-nos-nulos.ipynb)
 - [Árvore B.ipynb](https://github.com/Marcosddf/algoritmoseestruturasdedados/blob/master/arvore_B.ipynb)
